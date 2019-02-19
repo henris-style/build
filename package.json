@@ -14,5 +14,10 @@
     "js"
   ],
   "author": "Sil van Diepen",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "flat": "^4.1.0"
+  }
 }
