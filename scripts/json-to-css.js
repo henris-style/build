@@ -7,7 +7,7 @@ const Table = require('cli-table');
 
 const delimiter = '-',
 	sourceFolder = 'data/',
-	distFolder = 'src/scss/';
+	distFolder = 'src/';
 
 let fileTypes = [
 	{
