@@ -1,6 +1,6 @@
 {
   "name": "@henris/build",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scripts for Henri's build",
   "main": "index.js",
   "scripts": {
